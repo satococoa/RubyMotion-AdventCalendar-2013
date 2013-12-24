@@ -40,3 +40,4 @@ DerivedData
 Pods
 
 .build
+build-*/
